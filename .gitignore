@@ -1,0 +1,22 @@
+# Data — not shared (Kaggle competition data)
+data/
+.claude/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environment (uv)
+.venv/
+
+# Environment variables
+.env
+.env.*
+
+# OS
+.DS_Store
+Thumbs.db
