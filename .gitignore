@@ -2,6 +2,9 @@
 data/
 .claude/
 
+# Personal notes — local only
+notes_methodologie_ML.md
+
 # Python
 __pycache__/
 *.py[cod]
